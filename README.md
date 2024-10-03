@@ -26,6 +26,7 @@ Your `env` should contain:
 MAILGUN_API_KEY=YOUR_PRIVATE_API_KEY
 MAILGUN_DOMAIN=yourdomain.com
 PORT=YOUR_APP_PORT
+MAILGUN_TO=YOUR_MAILGUN_ADDRESS
 ```
 
 Once you have that setup you should be good to start Mailshooter.
